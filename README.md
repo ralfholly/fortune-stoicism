@@ -1,2 +1,1 @@
-# fortune-stoicism
-Fortune cookies on stoicism
+# Fortune cookies on stoicism
